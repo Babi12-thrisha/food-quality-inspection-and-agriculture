@@ -1,1 +1,1 @@
-# food-quality-inspection-and-agriculture
+Real time fire and smoke detection
